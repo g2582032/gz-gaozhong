@@ -1,0 +1,4 @@
+.workbuddy/
+build/
+node_modules/
+*.log
